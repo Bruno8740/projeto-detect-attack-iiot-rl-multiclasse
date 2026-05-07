@@ -1,0 +1,25 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Datasets
+*.parquet
+*.csv
+
+# Modelos
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
